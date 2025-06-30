@@ -1,6 +1,6 @@
 {
   "similarityThreshold": 0.85,
-  "phraseSimilarityThreshold": 0.85,
+  "phraseSimilarityThreshold": 0.95,
   "bannedWords": [
     "sex","sexual","porn","xxx","nude","nudity","boobs","tits","pussy","vagina",
     "dick","cock","penis","anal","oral","cum","blowjob","handjob","dildo","vibrator",
