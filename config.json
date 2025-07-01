@@ -6,9 +6,9 @@
     "initialBackoff": 1
   },
   "batch": {
-    "size": 10,
-    "flushInterval": 10,
-    "combineWindow": 2
+    "size": 20,
+    "flushInterval": 20,
+    "combineWindow": 1
   },
   "thresholds": {
     "default": 0.5,
