@@ -47,9 +47,7 @@
   },
   "politics": {
     "banList": [
-      "election","vote","voting",
-      "president","prime minister","congress","senate","parliament",
-      "democrat","republican","liberal","conservative",
+      "democrat","republican",
       "trump","biden","obama","clinton","maga"
     ]
   },
